@@ -1,1 +1,1 @@
-# SLFinallab
+Calcullator app using angular
